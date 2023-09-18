@@ -1,0 +1,11 @@
+.window{
+    background-color: black;
+    margin: 5%;
+    width: 100%;
+    min-height: 300px;
+    border: solid black 3px;
+}
+.console{
+    min-width: 95%;
+    min-height: 300px;    
+}
